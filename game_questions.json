@@ -1,0 +1,4413 @@
+{
+  "_removed_ids": [],
+  "truth": [
+    {
+      "id": "truth-001",
+      "prompt": "What harmless secret have you never told this group? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-002",
+      "prompt": "What harmless secret have you never told this group? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-003",
+      "prompt": "What harmless secret have you never told this group? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-004",
+      "prompt": "What harmless secret have you never told this group? Answer without naming any private information."
+    },
+    {
+      "id": "truth-005",
+      "prompt": "What harmless secret have you never told this group? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-006",
+      "prompt": "What harmless secret have you never told this group? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-007",
+      "prompt": "What harmless secret have you never told this group? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-008",
+      "prompt": "What harmless secret have you never told this group? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-009",
+      "prompt": "What harmless secret have you never told this group? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-010",
+      "prompt": "What harmless secret have you never told this group? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-011",
+      "prompt": "Which first impression of you is completely wrong? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-012",
+      "prompt": "Which first impression of you is completely wrong? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-013",
+      "prompt": "Which first impression of you is completely wrong? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-014",
+      "prompt": "Which first impression of you is completely wrong? Answer without naming any private information."
+    },
+    {
+      "id": "truth-015",
+      "prompt": "Which first impression of you is completely wrong? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-016",
+      "prompt": "Which first impression of you is completely wrong? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-017",
+      "prompt": "Which first impression of you is completely wrong? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-018",
+      "prompt": "Which first impression of you is completely wrong? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-019",
+      "prompt": "Which first impression of you is completely wrong? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-020",
+      "prompt": "Which first impression of you is completely wrong? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-021",
+      "prompt": "What ridiculous thing have you done to avoid an awkward conversation? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-022",
+      "prompt": "What ridiculous thing have you done to avoid an awkward conversation? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-023",
+      "prompt": "What ridiculous thing have you done to avoid an awkward conversation? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-024",
+      "prompt": "What ridiculous thing have you done to avoid an awkward conversation? Answer without naming any private information."
+    },
+    {
+      "id": "truth-025",
+      "prompt": "What ridiculous thing have you done to avoid an awkward conversation? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-026",
+      "prompt": "What ridiculous thing have you done to avoid an awkward conversation? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-027",
+      "prompt": "What ridiculous thing have you done to avoid an awkward conversation? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-028",
+      "prompt": "What ridiculous thing have you done to avoid an awkward conversation? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-029",
+      "prompt": "What ridiculous thing have you done to avoid an awkward conversation? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-030",
+      "prompt": "What ridiculous thing have you done to avoid an awkward conversation? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-031",
+      "prompt": "Who here would you trust with an embarrassing story? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-032",
+      "prompt": "Who here would you trust with an embarrassing story? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-033",
+      "prompt": "Who here would you trust with an embarrassing story? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-034",
+      "prompt": "Who here would you trust with an embarrassing story? Answer without naming any private information."
+    },
+    {
+      "id": "truth-035",
+      "prompt": "Who here would you trust with an embarrassing story? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-036",
+      "prompt": "Who here would you trust with an embarrassing story? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-037",
+      "prompt": "Who here would you trust with an embarrassing story? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-038",
+      "prompt": "Who here would you trust with an embarrassing story? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-039",
+      "prompt": "Who here would you trust with an embarrassing story? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-040",
+      "prompt": "Who here would you trust with an embarrassing story? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-041",
+      "prompt": "What talent do you pretend not to have? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-042",
+      "prompt": "What talent do you pretend not to have? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-043",
+      "prompt": "What talent do you pretend not to have? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-044",
+      "prompt": "What talent do you pretend not to have? Answer without naming any private information."
+    },
+    {
+      "id": "truth-045",
+      "prompt": "What talent do you pretend not to have? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-046",
+      "prompt": "What talent do you pretend not to have? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-047",
+      "prompt": "What talent do you pretend not to have? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-048",
+      "prompt": "What talent do you pretend not to have? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-049",
+      "prompt": "What talent do you pretend not to have? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-050",
+      "prompt": "What talent do you pretend not to have? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-051",
+      "prompt": "What was the last thing you searched for online? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-052",
+      "prompt": "What was the last thing you searched for online? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-053",
+      "prompt": "What was the last thing you searched for online? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-054",
+      "prompt": "What was the last thing you searched for online? Answer without naming any private information."
+    },
+    {
+      "id": "truth-055",
+      "prompt": "What was the last thing you searched for online? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-056",
+      "prompt": "What was the last thing you searched for online? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-057",
+      "prompt": "What was the last thing you searched for online? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-058",
+      "prompt": "What was the last thing you searched for online? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-059",
+      "prompt": "What was the last thing you searched for online? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-060",
+      "prompt": "What was the last thing you searched for online? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-061",
+      "prompt": "Which fictional character would be your worst roommate? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-062",
+      "prompt": "Which fictional character would be your worst roommate? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-063",
+      "prompt": "Which fictional character would be your worst roommate? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-064",
+      "prompt": "Which fictional character would be your worst roommate? Answer without naming any private information."
+    },
+    {
+      "id": "truth-065",
+      "prompt": "Which fictional character would be your worst roommate? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-066",
+      "prompt": "Which fictional character would be your worst roommate? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-067",
+      "prompt": "Which fictional character would be your worst roommate? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-068",
+      "prompt": "Which fictional character would be your worst roommate? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-069",
+      "prompt": "Which fictional character would be your worst roommate? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-070",
+      "prompt": "Which fictional character would be your worst roommate? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-071",
+      "prompt": "What small decision do you still overthink? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-072",
+      "prompt": "What small decision do you still overthink? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-073",
+      "prompt": "What small decision do you still overthink? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-074",
+      "prompt": "What small decision do you still overthink? Answer without naming any private information."
+    },
+    {
+      "id": "truth-075",
+      "prompt": "What small decision do you still overthink? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-076",
+      "prompt": "What small decision do you still overthink? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-077",
+      "prompt": "What small decision do you still overthink? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-078",
+      "prompt": "What small decision do you still overthink? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-079",
+      "prompt": "What small decision do you still overthink? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-080",
+      "prompt": "What small decision do you still overthink? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-081",
+      "prompt": "What funny misunderstanding have you caused? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-082",
+      "prompt": "What funny misunderstanding have you caused? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-083",
+      "prompt": "What funny misunderstanding have you caused? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-084",
+      "prompt": "What funny misunderstanding have you caused? Answer without naming any private information."
+    },
+    {
+      "id": "truth-085",
+      "prompt": "What funny misunderstanding have you caused? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-086",
+      "prompt": "What funny misunderstanding have you caused? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-087",
+      "prompt": "What funny misunderstanding have you caused? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-088",
+      "prompt": "What funny misunderstanding have you caused? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-089",
+      "prompt": "What funny misunderstanding have you caused? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-090",
+      "prompt": "What funny misunderstanding have you caused? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-091",
+      "prompt": "What harmless rule have you broken? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-092",
+      "prompt": "What harmless rule have you broken? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-093",
+      "prompt": "What harmless rule have you broken? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-094",
+      "prompt": "What harmless rule have you broken? Answer without naming any private information."
+    },
+    {
+      "id": "truth-095",
+      "prompt": "What harmless rule have you broken? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-096",
+      "prompt": "What harmless rule have you broken? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-097",
+      "prompt": "What harmless rule have you broken? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-098",
+      "prompt": "What harmless rule have you broken? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-099",
+      "prompt": "What harmless rule have you broken? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-100",
+      "prompt": "What harmless rule have you broken? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-101",
+      "prompt": "Which song would reveal too much about your mood? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-102",
+      "prompt": "Which song would reveal too much about your mood? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-103",
+      "prompt": "Which song would reveal too much about your mood? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-104",
+      "prompt": "Which song would reveal too much about your mood? Answer without naming any private information."
+    },
+    {
+      "id": "truth-105",
+      "prompt": "Which song would reveal too much about your mood? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-106",
+      "prompt": "Which song would reveal too much about your mood? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-107",
+      "prompt": "Which song would reveal too much about your mood? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-108",
+      "prompt": "Which song would reveal too much about your mood? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-109",
+      "prompt": "Which song would reveal too much about your mood? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-110",
+      "prompt": "Which song would reveal too much about your mood? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-111",
+      "prompt": "What is the pettiest reason you have been annoyed? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-112",
+      "prompt": "What is the pettiest reason you have been annoyed? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-113",
+      "prompt": "What is the pettiest reason you have been annoyed? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-114",
+      "prompt": "What is the pettiest reason you have been annoyed? Answer without naming any private information."
+    },
+    {
+      "id": "truth-115",
+      "prompt": "What is the pettiest reason you have been annoyed? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-116",
+      "prompt": "What is the pettiest reason you have been annoyed? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-117",
+      "prompt": "What is the pettiest reason you have been annoyed? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-118",
+      "prompt": "What is the pettiest reason you have been annoyed? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-119",
+      "prompt": "What is the pettiest reason you have been annoyed? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-120",
+      "prompt": "What is the pettiest reason you have been annoyed? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-121",
+      "prompt": "What object would you save first in a silly emergency? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-122",
+      "prompt": "What object would you save first in a silly emergency? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-123",
+      "prompt": "What object would you save first in a silly emergency? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-124",
+      "prompt": "What object would you save first in a silly emergency? Answer without naming any private information."
+    },
+    {
+      "id": "truth-125",
+      "prompt": "What object would you save first in a silly emergency? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-126",
+      "prompt": "What object would you save first in a silly emergency? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-127",
+      "prompt": "What object would you save first in a silly emergency? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-128",
+      "prompt": "What object would you save first in a silly emergency? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-129",
+      "prompt": "What object would you save first in a silly emergency? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-130",
+      "prompt": "What object would you save first in a silly emergency? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-131",
+      "prompt": "What is the strangest compliment you have received? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-132",
+      "prompt": "What is the strangest compliment you have received? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-133",
+      "prompt": "What is the strangest compliment you have received? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-134",
+      "prompt": "What is the strangest compliment you have received? Answer without naming any private information."
+    },
+    {
+      "id": "truth-135",
+      "prompt": "What is the strangest compliment you have received? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-136",
+      "prompt": "What is the strangest compliment you have received? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-137",
+      "prompt": "What is the strangest compliment you have received? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-138",
+      "prompt": "What is the strangest compliment you have received? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-139",
+      "prompt": "What is the strangest compliment you have received? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-140",
+      "prompt": "What is the strangest compliment you have received? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-141",
+      "prompt": "Which friend would survive longest in a mystery novel? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-142",
+      "prompt": "Which friend would survive longest in a mystery novel? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-143",
+      "prompt": "Which friend would survive longest in a mystery novel? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-144",
+      "prompt": "Which friend would survive longest in a mystery novel? Answer without naming any private information."
+    },
+    {
+      "id": "truth-145",
+      "prompt": "Which friend would survive longest in a mystery novel? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-146",
+      "prompt": "Which friend would survive longest in a mystery novel? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-147",
+      "prompt": "Which friend would survive longest in a mystery novel? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-148",
+      "prompt": "Which friend would survive longest in a mystery novel? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-149",
+      "prompt": "Which friend would survive longest in a mystery novel? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-150",
+      "prompt": "Which friend would survive longest in a mystery novel? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-151",
+      "prompt": "What habit do you hope nobody notices? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-152",
+      "prompt": "What habit do you hope nobody notices? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-153",
+      "prompt": "What habit do you hope nobody notices? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-154",
+      "prompt": "What habit do you hope nobody notices? Answer without naming any private information."
+    },
+    {
+      "id": "truth-155",
+      "prompt": "What habit do you hope nobody notices? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-156",
+      "prompt": "What habit do you hope nobody notices? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-157",
+      "prompt": "What habit do you hope nobody notices? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-158",
+      "prompt": "What habit do you hope nobody notices? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-159",
+      "prompt": "What habit do you hope nobody notices? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-160",
+      "prompt": "What habit do you hope nobody notices? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-161",
+      "prompt": "What food combination do you defend passionately? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-162",
+      "prompt": "What food combination do you defend passionately? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-163",
+      "prompt": "What food combination do you defend passionately? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-164",
+      "prompt": "What food combination do you defend passionately? Answer without naming any private information."
+    },
+    {
+      "id": "truth-165",
+      "prompt": "What food combination do you defend passionately? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-166",
+      "prompt": "What food combination do you defend passionately? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-167",
+      "prompt": "What food combination do you defend passionately? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-168",
+      "prompt": "What food combination do you defend passionately? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-169",
+      "prompt": "What food combination do you defend passionately? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-170",
+      "prompt": "What food combination do you defend passionately? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-171",
+      "prompt": "Which fictional world would you visit for one week? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-172",
+      "prompt": "Which fictional world would you visit for one week? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-173",
+      "prompt": "Which fictional world would you visit for one week? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-174",
+      "prompt": "Which fictional world would you visit for one week? Answer without naming any private information."
+    },
+    {
+      "id": "truth-175",
+      "prompt": "Which fictional world would you visit for one week? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-176",
+      "prompt": "Which fictional world would you visit for one week? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-177",
+      "prompt": "Which fictional world would you visit for one week? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-178",
+      "prompt": "Which fictional world would you visit for one week? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-179",
+      "prompt": "Which fictional world would you visit for one week? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-180",
+      "prompt": "Which fictional world would you visit for one week? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-181",
+      "prompt": "What is the most chaotic group chat moment you remember? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-182",
+      "prompt": "What is the most chaotic group chat moment you remember? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-183",
+      "prompt": "What is the most chaotic group chat moment you remember? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-184",
+      "prompt": "What is the most chaotic group chat moment you remember? Answer without naming any private information."
+    },
+    {
+      "id": "truth-185",
+      "prompt": "What is the most chaotic group chat moment you remember? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-186",
+      "prompt": "What is the most chaotic group chat moment you remember? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-187",
+      "prompt": "What is the most chaotic group chat moment you remember? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-188",
+      "prompt": "What is the most chaotic group chat moment you remember? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-189",
+      "prompt": "What is the most chaotic group chat moment you remember? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-190",
+      "prompt": "What is the most chaotic group chat moment you remember? Explain what made the answer memorable."
+    },
+    {
+      "id": "truth-191",
+      "prompt": "What promise to yourself do you keep postponing? Give the first honest answer that comes to mind."
+    },
+    {
+      "id": "truth-192",
+      "prompt": "What promise to yourself do you keep postponing? Answer as if the group is filming a documentary."
+    },
+    {
+      "id": "truth-193",
+      "prompt": "What promise to yourself do you keep postponing? Explain the answer in one sentence."
+    },
+    {
+      "id": "truth-194",
+      "prompt": "What promise to yourself do you keep postponing? Answer without naming any private information."
+    },
+    {
+      "id": "truth-195",
+      "prompt": "What promise to yourself do you keep postponing? Give an answer that would surprise the group."
+    },
+    {
+      "id": "truth-196",
+      "prompt": "What promise to yourself do you keep postponing? Answer like you are writing a diary entry."
+    },
+    {
+      "id": "truth-197",
+      "prompt": "What promise to yourself do you keep postponing? Include the funniest detail you can remember."
+    },
+    {
+      "id": "truth-198",
+      "prompt": "What promise to yourself do you keep postponing? Answer before anyone can offer a guess."
+    },
+    {
+      "id": "truth-199",
+      "prompt": "What promise to yourself do you keep postponing? Give the answer with complete confidence."
+    },
+    {
+      "id": "truth-200",
+      "prompt": "What promise to yourself do you keep postponing? Explain what made the answer memorable."
+    }
+  ],
+  "dare": [
+    {
+      "id": "dare-001",
+      "prompt": "Give a dramatic weather report about the nearest object Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-002",
+      "prompt": "Give a dramatic weather report about the nearest object Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-003",
+      "prompt": "Give a dramatic weather report about the nearest object Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-004",
+      "prompt": "Give a dramatic weather report about the nearest object Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-005",
+      "prompt": "Give a dramatic weather report about the nearest object Finish it before sending your next message."
+    },
+    {
+      "id": "dare-006",
+      "prompt": "Give a dramatic weather report about the nearest object Give the result a dramatic title."
+    },
+    {
+      "id": "dare-007",
+      "prompt": "Give a dramatic weather report about the nearest object Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-008",
+      "prompt": "Give a dramatic weather report about the nearest object Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-009",
+      "prompt": "Give a dramatic weather report about the nearest object Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-010",
+      "prompt": "Give a dramatic weather report about the nearest object Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-011",
+      "prompt": "Speak like a movie villain for your next three messages Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-012",
+      "prompt": "Speak like a movie villain for your next three messages Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-013",
+      "prompt": "Speak like a movie villain for your next three messages Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-014",
+      "prompt": "Speak like a movie villain for your next three messages Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-015",
+      "prompt": "Speak like a movie villain for your next three messages Finish it before sending your next message."
+    },
+    {
+      "id": "dare-016",
+      "prompt": "Speak like a movie villain for your next three messages Give the result a dramatic title."
+    },
+    {
+      "id": "dare-017",
+      "prompt": "Speak like a movie villain for your next three messages Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-018",
+      "prompt": "Speak like a movie villain for your next three messages Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-019",
+      "prompt": "Speak like a movie villain for your next three messages Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-020",
+      "prompt": "Speak like a movie villain for your next three messages Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-021",
+      "prompt": "Send a voice note in your most serious news-anchor voice Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-022",
+      "prompt": "Send a voice note in your most serious news-anchor voice Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-023",
+      "prompt": "Send a voice note in your most serious news-anchor voice Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-024",
+      "prompt": "Send a voice note in your most serious news-anchor voice Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-025",
+      "prompt": "Send a voice note in your most serious news-anchor voice Finish it before sending your next message."
+    },
+    {
+      "id": "dare-026",
+      "prompt": "Send a voice note in your most serious news-anchor voice Give the result a dramatic title."
+    },
+    {
+      "id": "dare-027",
+      "prompt": "Send a voice note in your most serious news-anchor voice Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-028",
+      "prompt": "Send a voice note in your most serious news-anchor voice Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-029",
+      "prompt": "Send a voice note in your most serious news-anchor voice Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-030",
+      "prompt": "Send a voice note in your most serious news-anchor voice Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-031",
+      "prompt": "Change your status to something mysteriously specific Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-032",
+      "prompt": "Change your status to something mysteriously specific Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-033",
+      "prompt": "Change your status to something mysteriously specific Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-034",
+      "prompt": "Change your status to something mysteriously specific Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-035",
+      "prompt": "Change your status to something mysteriously specific Finish it before sending your next message."
+    },
+    {
+      "id": "dare-036",
+      "prompt": "Change your status to something mysteriously specific Give the result a dramatic title."
+    },
+    {
+      "id": "dare-037",
+      "prompt": "Change your status to something mysteriously specific Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-038",
+      "prompt": "Change your status to something mysteriously specific Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-039",
+      "prompt": "Change your status to something mysteriously specific Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-040",
+      "prompt": "Change your status to something mysteriously specific Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-041",
+      "prompt": "Describe your day using only three exaggerated sound effects Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-042",
+      "prompt": "Describe your day using only three exaggerated sound effects Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-043",
+      "prompt": "Describe your day using only three exaggerated sound effects Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-044",
+      "prompt": "Describe your day using only three exaggerated sound effects Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-045",
+      "prompt": "Describe your day using only three exaggerated sound effects Finish it before sending your next message."
+    },
+    {
+      "id": "dare-046",
+      "prompt": "Describe your day using only three exaggerated sound effects Give the result a dramatic title."
+    },
+    {
+      "id": "dare-047",
+      "prompt": "Describe your day using only three exaggerated sound effects Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-048",
+      "prompt": "Describe your day using only three exaggerated sound effects Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-049",
+      "prompt": "Describe your day using only three exaggerated sound effects Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-050",
+      "prompt": "Describe your day using only three exaggerated sound effects Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-051",
+      "prompt": "Compliment the last person who sent a message Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-052",
+      "prompt": "Compliment the last person who sent a message Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-053",
+      "prompt": "Compliment the last person who sent a message Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-054",
+      "prompt": "Compliment the last person who sent a message Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-055",
+      "prompt": "Compliment the last person who sent a message Finish it before sending your next message."
+    },
+    {
+      "id": "dare-056",
+      "prompt": "Compliment the last person who sent a message Give the result a dramatic title."
+    },
+    {
+      "id": "dare-057",
+      "prompt": "Compliment the last person who sent a message Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-058",
+      "prompt": "Compliment the last person who sent a message Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-059",
+      "prompt": "Compliment the last person who sent a message Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-060",
+      "prompt": "Compliment the last person who sent a message Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-061",
+      "prompt": "Write a tiny poem about a snack Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-062",
+      "prompt": "Write a tiny poem about a snack Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-063",
+      "prompt": "Write a tiny poem about a snack Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-064",
+      "prompt": "Write a tiny poem about a snack Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-065",
+      "prompt": "Write a tiny poem about a snack Finish it before sending your next message."
+    },
+    {
+      "id": "dare-066",
+      "prompt": "Write a tiny poem about a snack Give the result a dramatic title."
+    },
+    {
+      "id": "dare-067",
+      "prompt": "Write a tiny poem about a snack Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-068",
+      "prompt": "Write a tiny poem about a snack Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-069",
+      "prompt": "Write a tiny poem about a snack Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-070",
+      "prompt": "Write a tiny poem about a snack Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-071",
+      "prompt": "Pretend an ordinary item is a priceless museum artifact Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-072",
+      "prompt": "Pretend an ordinary item is a priceless museum artifact Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-073",
+      "prompt": "Pretend an ordinary item is a priceless museum artifact Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-074",
+      "prompt": "Pretend an ordinary item is a priceless museum artifact Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-075",
+      "prompt": "Pretend an ordinary item is a priceless museum artifact Finish it before sending your next message."
+    },
+    {
+      "id": "dare-076",
+      "prompt": "Pretend an ordinary item is a priceless museum artifact Give the result a dramatic title."
+    },
+    {
+      "id": "dare-077",
+      "prompt": "Pretend an ordinary item is a priceless museum artifact Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-078",
+      "prompt": "Pretend an ordinary item is a priceless museum artifact Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-079",
+      "prompt": "Pretend an ordinary item is a priceless museum artifact Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-080",
+      "prompt": "Pretend an ordinary item is a priceless museum artifact Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-081",
+      "prompt": "Use an imaginary award speech to thank this group Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-082",
+      "prompt": "Use an imaginary award speech to thank this group Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-083",
+      "prompt": "Use an imaginary award speech to thank this group Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-084",
+      "prompt": "Use an imaginary award speech to thank this group Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-085",
+      "prompt": "Use an imaginary award speech to thank this group Finish it before sending your next message."
+    },
+    {
+      "id": "dare-086",
+      "prompt": "Use an imaginary award speech to thank this group Give the result a dramatic title."
+    },
+    {
+      "id": "dare-087",
+      "prompt": "Use an imaginary award speech to thank this group Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-088",
+      "prompt": "Use an imaginary award speech to thank this group Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-089",
+      "prompt": "Use an imaginary award speech to thank this group Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-090",
+      "prompt": "Use an imaginary award speech to thank this group Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-091",
+      "prompt": "Type a sentence with your eyes closed and do not correct it Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-092",
+      "prompt": "Type a sentence with your eyes closed and do not correct it Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-093",
+      "prompt": "Type a sentence with your eyes closed and do not correct it Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-094",
+      "prompt": "Type a sentence with your eyes closed and do not correct it Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-095",
+      "prompt": "Type a sentence with your eyes closed and do not correct it Finish it before sending your next message."
+    },
+    {
+      "id": "dare-096",
+      "prompt": "Type a sentence with your eyes closed and do not correct it Give the result a dramatic title."
+    },
+    {
+      "id": "dare-097",
+      "prompt": "Type a sentence with your eyes closed and do not correct it Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-098",
+      "prompt": "Type a sentence with your eyes closed and do not correct it Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-099",
+      "prompt": "Type a sentence with your eyes closed and do not correct it Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-100",
+      "prompt": "Type a sentence with your eyes closed and do not correct it Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-101",
+      "prompt": "Invent a new holiday and announce its strange tradition Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-102",
+      "prompt": "Invent a new holiday and announce its strange tradition Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-103",
+      "prompt": "Invent a new holiday and announce its strange tradition Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-104",
+      "prompt": "Invent a new holiday and announce its strange tradition Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-105",
+      "prompt": "Invent a new holiday and announce its strange tradition Finish it before sending your next message."
+    },
+    {
+      "id": "dare-106",
+      "prompt": "Invent a new holiday and announce its strange tradition Give the result a dramatic title."
+    },
+    {
+      "id": "dare-107",
+      "prompt": "Invent a new holiday and announce its strange tradition Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-108",
+      "prompt": "Invent a new holiday and announce its strange tradition Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-109",
+      "prompt": "Invent a new holiday and announce its strange tradition Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-110",
+      "prompt": "Invent a new holiday and announce its strange tradition Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-111",
+      "prompt": "Explain a simple task as if it were an epic quest Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-112",
+      "prompt": "Explain a simple task as if it were an epic quest Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-113",
+      "prompt": "Explain a simple task as if it were an epic quest Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-114",
+      "prompt": "Explain a simple task as if it were an epic quest Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-115",
+      "prompt": "Explain a simple task as if it were an epic quest Finish it before sending your next message."
+    },
+    {
+      "id": "dare-116",
+      "prompt": "Explain a simple task as if it were an epic quest Give the result a dramatic title."
+    },
+    {
+      "id": "dare-117",
+      "prompt": "Explain a simple task as if it were an epic quest Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-118",
+      "prompt": "Explain a simple task as if it were an epic quest Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-119",
+      "prompt": "Explain a simple task as if it were an epic quest Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-120",
+      "prompt": "Explain a simple task as if it were an epic quest Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-121",
+      "prompt": "Give yourself a ridiculous but respectful stage name Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-122",
+      "prompt": "Give yourself a ridiculous but respectful stage name Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-123",
+      "prompt": "Give yourself a ridiculous but respectful stage name Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-124",
+      "prompt": "Give yourself a ridiculous but respectful stage name Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-125",
+      "prompt": "Give yourself a ridiculous but respectful stage name Finish it before sending your next message."
+    },
+    {
+      "id": "dare-126",
+      "prompt": "Give yourself a ridiculous but respectful stage name Give the result a dramatic title."
+    },
+    {
+      "id": "dare-127",
+      "prompt": "Give yourself a ridiculous but respectful stage name Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-128",
+      "prompt": "Give yourself a ridiculous but respectful stage name Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-129",
+      "prompt": "Give yourself a ridiculous but respectful stage name Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-130",
+      "prompt": "Give yourself a ridiculous but respectful stage name Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-131",
+      "prompt": "Make up a two-line theme song for this server Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-132",
+      "prompt": "Make up a two-line theme song for this server Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-133",
+      "prompt": "Make up a two-line theme song for this server Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-134",
+      "prompt": "Make up a two-line theme song for this server Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-135",
+      "prompt": "Make up a two-line theme song for this server Finish it before sending your next message."
+    },
+    {
+      "id": "dare-136",
+      "prompt": "Make up a two-line theme song for this server Give the result a dramatic title."
+    },
+    {
+      "id": "dare-137",
+      "prompt": "Make up a two-line theme song for this server Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-138",
+      "prompt": "Make up a two-line theme song for this server Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-139",
+      "prompt": "Make up a two-line theme song for this server Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-140",
+      "prompt": "Make up a two-line theme song for this server Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-141",
+      "prompt": "Describe your outfit like a fashion critic Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-142",
+      "prompt": "Describe your outfit like a fashion critic Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-143",
+      "prompt": "Describe your outfit like a fashion critic Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-144",
+      "prompt": "Describe your outfit like a fashion critic Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-145",
+      "prompt": "Describe your outfit like a fashion critic Finish it before sending your next message."
+    },
+    {
+      "id": "dare-146",
+      "prompt": "Describe your outfit like a fashion critic Give the result a dramatic title."
+    },
+    {
+      "id": "dare-147",
+      "prompt": "Describe your outfit like a fashion critic Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-148",
+      "prompt": "Describe your outfit like a fashion critic Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-149",
+      "prompt": "Describe your outfit like a fashion critic Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-150",
+      "prompt": "Describe your outfit like a fashion critic Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-151",
+      "prompt": "Reply using only questions for the next three messages Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-152",
+      "prompt": "Reply using only questions for the next three messages Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-153",
+      "prompt": "Reply using only questions for the next three messages Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-154",
+      "prompt": "Reply using only questions for the next three messages Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-155",
+      "prompt": "Reply using only questions for the next three messages Finish it before sending your next message."
+    },
+    {
+      "id": "dare-156",
+      "prompt": "Reply using only questions for the next three messages Give the result a dramatic title."
+    },
+    {
+      "id": "dare-157",
+      "prompt": "Reply using only questions for the next three messages Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-158",
+      "prompt": "Reply using only questions for the next three messages Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-159",
+      "prompt": "Reply using only questions for the next three messages Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-160",
+      "prompt": "Reply using only questions for the next three messages Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-161",
+      "prompt": "Create a slogan for the nearest object Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-162",
+      "prompt": "Create a slogan for the nearest object Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-163",
+      "prompt": "Create a slogan for the nearest object Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-164",
+      "prompt": "Create a slogan for the nearest object Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-165",
+      "prompt": "Create a slogan for the nearest object Finish it before sending your next message."
+    },
+    {
+      "id": "dare-166",
+      "prompt": "Create a slogan for the nearest object Give the result a dramatic title."
+    },
+    {
+      "id": "dare-167",
+      "prompt": "Create a slogan for the nearest object Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-168",
+      "prompt": "Create a slogan for the nearest object Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-169",
+      "prompt": "Create a slogan for the nearest object Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-170",
+      "prompt": "Create a slogan for the nearest object Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-171",
+      "prompt": "Tell a clean joke in the most dramatic way possible Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-172",
+      "prompt": "Tell a clean joke in the most dramatic way possible Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-173",
+      "prompt": "Tell a clean joke in the most dramatic way possible Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-174",
+      "prompt": "Tell a clean joke in the most dramatic way possible Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-175",
+      "prompt": "Tell a clean joke in the most dramatic way possible Finish it before sending your next message."
+    },
+    {
+      "id": "dare-176",
+      "prompt": "Tell a clean joke in the most dramatic way possible Give the result a dramatic title."
+    },
+    {
+      "id": "dare-177",
+      "prompt": "Tell a clean joke in the most dramatic way possible Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-178",
+      "prompt": "Tell a clean joke in the most dramatic way possible Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-179",
+      "prompt": "Tell a clean joke in the most dramatic way possible Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-180",
+      "prompt": "Tell a clean joke in the most dramatic way possible Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-181",
+      "prompt": "Write a fake headline about what happened today Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-182",
+      "prompt": "Write a fake headline about what happened today Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-183",
+      "prompt": "Write a fake headline about what happened today Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-184",
+      "prompt": "Write a fake headline about what happened today Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-185",
+      "prompt": "Write a fake headline about what happened today Finish it before sending your next message."
+    },
+    {
+      "id": "dare-186",
+      "prompt": "Write a fake headline about what happened today Give the result a dramatic title."
+    },
+    {
+      "id": "dare-187",
+      "prompt": "Write a fake headline about what happened today Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-188",
+      "prompt": "Write a fake headline about what happened today Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-189",
+      "prompt": "Write a fake headline about what happened today Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-190",
+      "prompt": "Write a fake headline about what happened today Commit to the bit for at least thirty seconds."
+    },
+    {
+      "id": "dare-191",
+      "prompt": "Narrate your next drink of water like a sports commentator Keep it playful and complete it in the next minute."
+    },
+    {
+      "id": "dare-192",
+      "prompt": "Narrate your next drink of water like a sports commentator Do it with an exaggeratedly serious expression."
+    },
+    {
+      "id": "dare-193",
+      "prompt": "Narrate your next drink of water like a sports commentator Let the group choose the sound effect."
+    },
+    {
+      "id": "dare-194",
+      "prompt": "Narrate your next drink of water like a sports commentator Do it without leaving your current spot."
+    },
+    {
+      "id": "dare-195",
+      "prompt": "Narrate your next drink of water like a sports commentator Finish it before sending your next message."
+    },
+    {
+      "id": "dare-196",
+      "prompt": "Narrate your next drink of water like a sports commentator Give the result a dramatic title."
+    },
+    {
+      "id": "dare-197",
+      "prompt": "Narrate your next drink of water like a sports commentator Do it as though you are on a live stage."
+    },
+    {
+      "id": "dare-198",
+      "prompt": "Narrate your next drink of water like a sports commentator Make it understandable without extra explanation."
+    },
+    {
+      "id": "dare-199",
+      "prompt": "Narrate your next drink of water like a sports commentator Use only harmless objects nearby."
+    },
+    {
+      "id": "dare-200",
+      "prompt": "Narrate your next drink of water like a sports commentator Commit to the bit for at least thirty seconds."
+    }
+  ],
+  "paranoia": [
+    {
+      "id": "paranoia-001",
+      "prompt": "Who would accidentally become the leader of a secret club? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-002",
+      "prompt": "Who would accidentally become the leader of a secret club? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-003",
+      "prompt": "Who would accidentally become the leader of a secret club? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-004",
+      "prompt": "Who would accidentally become the leader of a secret club? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-005",
+      "prompt": "Who would accidentally become the leader of a secret club? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-006",
+      "prompt": "Who would accidentally become the leader of a secret club? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-007",
+      "prompt": "Who would accidentally become the leader of a secret club? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-008",
+      "prompt": "Who would accidentally become the leader of a secret club? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-009",
+      "prompt": "Who would accidentally become the leader of a secret club? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-010",
+      "prompt": "Who would accidentally become the leader of a secret club? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-011",
+      "prompt": "Who would be most suspiciously calm during a mystery? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-012",
+      "prompt": "Who would be most suspiciously calm during a mystery? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-013",
+      "prompt": "Who would be most suspiciously calm during a mystery? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-014",
+      "prompt": "Who would be most suspiciously calm during a mystery? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-015",
+      "prompt": "Who would be most suspiciously calm during a mystery? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-016",
+      "prompt": "Who would be most suspiciously calm during a mystery? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-017",
+      "prompt": "Who would be most suspiciously calm during a mystery? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-018",
+      "prompt": "Who would be most suspiciously calm during a mystery? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-019",
+      "prompt": "Who would be most suspiciously calm during a mystery? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-020",
+      "prompt": "Who would be most suspiciously calm during a mystery? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-021",
+      "prompt": "Who would survive longest if the lights went out? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-022",
+      "prompt": "Who would survive longest if the lights went out? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-023",
+      "prompt": "Who would survive longest if the lights went out? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-024",
+      "prompt": "Who would survive longest if the lights went out? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-025",
+      "prompt": "Who would survive longest if the lights went out? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-026",
+      "prompt": "Who would survive longest if the lights went out? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-027",
+      "prompt": "Who would survive longest if the lights went out? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-028",
+      "prompt": "Who would survive longest if the lights went out? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-029",
+      "prompt": "Who would survive longest if the lights went out? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-030",
+      "prompt": "Who would survive longest if the lights went out? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-031",
+      "prompt": "Who would start a rumor without realizing it? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-032",
+      "prompt": "Who would start a rumor without realizing it? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-033",
+      "prompt": "Who would start a rumor without realizing it? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-034",
+      "prompt": "Who would start a rumor without realizing it? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-035",
+      "prompt": "Who would start a rumor without realizing it? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-036",
+      "prompt": "Who would start a rumor without realizing it? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-037",
+      "prompt": "Who would start a rumor without realizing it? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-038",
+      "prompt": "Who would start a rumor without realizing it? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-039",
+      "prompt": "Who would start a rumor without realizing it? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-040",
+      "prompt": "Who would start a rumor without realizing it? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-041",
+      "prompt": "Who would be the first to befriend a strange creature? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-042",
+      "prompt": "Who would be the first to befriend a strange creature? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-043",
+      "prompt": "Who would be the first to befriend a strange creature? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-044",
+      "prompt": "Who would be the first to befriend a strange creature? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-045",
+      "prompt": "Who would be the first to befriend a strange creature? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-046",
+      "prompt": "Who would be the first to befriend a strange creature? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-047",
+      "prompt": "Who would be the first to befriend a strange creature? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-048",
+      "prompt": "Who would be the first to befriend a strange creature? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-049",
+      "prompt": "Who would be the first to befriend a strange creature? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-050",
+      "prompt": "Who would be the first to befriend a strange creature? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-051",
+      "prompt": "Who would turn a simple plan into a chaotic adventure? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-052",
+      "prompt": "Who would turn a simple plan into a chaotic adventure? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-053",
+      "prompt": "Who would turn a simple plan into a chaotic adventure? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-054",
+      "prompt": "Who would turn a simple plan into a chaotic adventure? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-055",
+      "prompt": "Who would turn a simple plan into a chaotic adventure? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-056",
+      "prompt": "Who would turn a simple plan into a chaotic adventure? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-057",
+      "prompt": "Who would turn a simple plan into a chaotic adventure? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-058",
+      "prompt": "Who would turn a simple plan into a chaotic adventure? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-059",
+      "prompt": "Who would turn a simple plan into a chaotic adventure? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-060",
+      "prompt": "Who would turn a simple plan into a chaotic adventure? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-061",
+      "prompt": "Who would keep a surprising secret the longest? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-062",
+      "prompt": "Who would keep a surprising secret the longest? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-063",
+      "prompt": "Who would keep a surprising secret the longest? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-064",
+      "prompt": "Who would keep a surprising secret the longest? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-065",
+      "prompt": "Who would keep a surprising secret the longest? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-066",
+      "prompt": "Who would keep a surprising secret the longest? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-067",
+      "prompt": "Who would keep a surprising secret the longest? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-068",
+      "prompt": "Who would keep a surprising secret the longest? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-069",
+      "prompt": "Who would keep a surprising secret the longest? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-070",
+      "prompt": "Who would keep a surprising secret the longest? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-071",
+      "prompt": "Who would solve a puzzle by ignoring the instructions? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-072",
+      "prompt": "Who would solve a puzzle by ignoring the instructions? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-073",
+      "prompt": "Who would solve a puzzle by ignoring the instructions? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-074",
+      "prompt": "Who would solve a puzzle by ignoring the instructions? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-075",
+      "prompt": "Who would solve a puzzle by ignoring the instructions? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-076",
+      "prompt": "Who would solve a puzzle by ignoring the instructions? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-077",
+      "prompt": "Who would solve a puzzle by ignoring the instructions? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-078",
+      "prompt": "Who would solve a puzzle by ignoring the instructions? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-079",
+      "prompt": "Who would solve a puzzle by ignoring the instructions? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-080",
+      "prompt": "Who would solve a puzzle by ignoring the instructions? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-081",
+      "prompt": "Who would be most likely to disappear at a party? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-082",
+      "prompt": "Who would be most likely to disappear at a party? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-083",
+      "prompt": "Who would be most likely to disappear at a party? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-084",
+      "prompt": "Who would be most likely to disappear at a party? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-085",
+      "prompt": "Who would be most likely to disappear at a party? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-086",
+      "prompt": "Who would be most likely to disappear at a party? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-087",
+      "prompt": "Who would be most likely to disappear at a party? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-088",
+      "prompt": "Who would be most likely to disappear at a party? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-089",
+      "prompt": "Who would be most likely to disappear at a party? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-090",
+      "prompt": "Who would be most likely to disappear at a party? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-091",
+      "prompt": "Who would make the best undercover detective? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-092",
+      "prompt": "Who would make the best undercover detective? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-093",
+      "prompt": "Who would make the best undercover detective? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-094",
+      "prompt": "Who would make the best undercover detective? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-095",
+      "prompt": "Who would make the best undercover detective? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-096",
+      "prompt": "Who would make the best undercover detective? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-097",
+      "prompt": "Who would make the best undercover detective? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-098",
+      "prompt": "Who would make the best undercover detective? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-099",
+      "prompt": "Who would make the best undercover detective? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-100",
+      "prompt": "Who would make the best undercover detective? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-101",
+      "prompt": "Who would accidentally become famous for something odd? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-102",
+      "prompt": "Who would accidentally become famous for something odd? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-103",
+      "prompt": "Who would accidentally become famous for something odd? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-104",
+      "prompt": "Who would accidentally become famous for something odd? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-105",
+      "prompt": "Who would accidentally become famous for something odd? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-106",
+      "prompt": "Who would accidentally become famous for something odd? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-107",
+      "prompt": "Who would accidentally become famous for something odd? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-108",
+      "prompt": "Who would accidentally become famous for something odd? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-109",
+      "prompt": "Who would accidentally become famous for something odd? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-110",
+      "prompt": "Who would accidentally become famous for something odd? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-111",
+      "prompt": "Who would bring the strangest item to a road trip? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-112",
+      "prompt": "Who would bring the strangest item to a road trip? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-113",
+      "prompt": "Who would bring the strangest item to a road trip? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-114",
+      "prompt": "Who would bring the strangest item to a road trip? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-115",
+      "prompt": "Who would bring the strangest item to a road trip? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-116",
+      "prompt": "Who would bring the strangest item to a road trip? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-117",
+      "prompt": "Who would bring the strangest item to a road trip? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-118",
+      "prompt": "Who would bring the strangest item to a road trip? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-119",
+      "prompt": "Who would bring the strangest item to a road trip? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-120",
+      "prompt": "Who would bring the strangest item to a road trip? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-121",
+      "prompt": "Who would make a dramatic entrance for no reason? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-122",
+      "prompt": "Who would make a dramatic entrance for no reason? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-123",
+      "prompt": "Who would make a dramatic entrance for no reason? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-124",
+      "prompt": "Who would make a dramatic entrance for no reason? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-125",
+      "prompt": "Who would make a dramatic entrance for no reason? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-126",
+      "prompt": "Who would make a dramatic entrance for no reason? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-127",
+      "prompt": "Who would make a dramatic entrance for no reason? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-128",
+      "prompt": "Who would make a dramatic entrance for no reason? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-129",
+      "prompt": "Who would make a dramatic entrance for no reason? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-130",
+      "prompt": "Who would make a dramatic entrance for no reason? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-131",
+      "prompt": "Who would be trusted with a mysterious old key? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-132",
+      "prompt": "Who would be trusted with a mysterious old key? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-133",
+      "prompt": "Who would be trusted with a mysterious old key? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-134",
+      "prompt": "Who would be trusted with a mysterious old key? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-135",
+      "prompt": "Who would be trusted with a mysterious old key? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-136",
+      "prompt": "Who would be trusted with a mysterious old key? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-137",
+      "prompt": "Who would be trusted with a mysterious old key? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-138",
+      "prompt": "Who would be trusted with a mysterious old key? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-139",
+      "prompt": "Who would be trusted with a mysterious old key? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-140",
+      "prompt": "Who would be trusted with a mysterious old key? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-141",
+      "prompt": "Who would turn a boring meeting into a story? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-142",
+      "prompt": "Who would turn a boring meeting into a story? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-143",
+      "prompt": "Who would turn a boring meeting into a story? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-144",
+      "prompt": "Who would turn a boring meeting into a story? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-145",
+      "prompt": "Who would turn a boring meeting into a story? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-146",
+      "prompt": "Who would turn a boring meeting into a story? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-147",
+      "prompt": "Who would turn a boring meeting into a story? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-148",
+      "prompt": "Who would turn a boring meeting into a story? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-149",
+      "prompt": "Who would turn a boring meeting into a story? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-150",
+      "prompt": "Who would turn a boring meeting into a story? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-151",
+      "prompt": "Who would choose the suspicious door in a haunted house? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-152",
+      "prompt": "Who would choose the suspicious door in a haunted house? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-153",
+      "prompt": "Who would choose the suspicious door in a haunted house? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-154",
+      "prompt": "Who would choose the suspicious door in a haunted house? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-155",
+      "prompt": "Who would choose the suspicious door in a haunted house? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-156",
+      "prompt": "Who would choose the suspicious door in a haunted house? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-157",
+      "prompt": "Who would choose the suspicious door in a haunted house? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-158",
+      "prompt": "Who would choose the suspicious door in a haunted house? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-159",
+      "prompt": "Who would choose the suspicious door in a haunted house? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-160",
+      "prompt": "Who would choose the suspicious door in a haunted house? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-161",
+      "prompt": "Who would win an argument using only confidence? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-162",
+      "prompt": "Who would win an argument using only confidence? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-163",
+      "prompt": "Who would win an argument using only confidence? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-164",
+      "prompt": "Who would win an argument using only confidence? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-165",
+      "prompt": "Who would win an argument using only confidence? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-166",
+      "prompt": "Who would win an argument using only confidence? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-167",
+      "prompt": "Who would win an argument using only confidence? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-168",
+      "prompt": "Who would win an argument using only confidence? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-169",
+      "prompt": "Who would win an argument using only confidence? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-170",
+      "prompt": "Who would win an argument using only confidence? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-171",
+      "prompt": "Who would have the most unexpected hidden hobby? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-172",
+      "prompt": "Who would have the most unexpected hidden hobby? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-173",
+      "prompt": "Who would have the most unexpected hidden hobby? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-174",
+      "prompt": "Who would have the most unexpected hidden hobby? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-175",
+      "prompt": "Who would have the most unexpected hidden hobby? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-176",
+      "prompt": "Who would have the most unexpected hidden hobby? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-177",
+      "prompt": "Who would have the most unexpected hidden hobby? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-178",
+      "prompt": "Who would have the most unexpected hidden hobby? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-179",
+      "prompt": "Who would have the most unexpected hidden hobby? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-180",
+      "prompt": "Who would have the most unexpected hidden hobby? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-181",
+      "prompt": "Who would send a message to the wrong group chat? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-182",
+      "prompt": "Who would send a message to the wrong group chat? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-183",
+      "prompt": "Who would send a message to the wrong group chat? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-184",
+      "prompt": "Who would send a message to the wrong group chat? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-185",
+      "prompt": "Who would send a message to the wrong group chat? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-186",
+      "prompt": "Who would send a message to the wrong group chat? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-187",
+      "prompt": "Who would send a message to the wrong group chat? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-188",
+      "prompt": "Who would send a message to the wrong group chat? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-189",
+      "prompt": "Who would send a message to the wrong group chat? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-190",
+      "prompt": "Who would send a message to the wrong group chat? Make the answer dramatic but friendly."
+    },
+    {
+      "id": "paranoia-191",
+      "prompt": "Who would volunteer first for a ridiculous experiment? Pick one person and give a harmless reason."
+    },
+    {
+      "id": "paranoia-192",
+      "prompt": "Who would volunteer first for a ridiculous experiment? Answer quickly before the group overthinks it."
+    },
+    {
+      "id": "paranoia-193",
+      "prompt": "Who would volunteer first for a ridiculous experiment? Choose based only on the current conversation."
+    },
+    {
+      "id": "paranoia-194",
+      "prompt": "Who would volunteer first for a ridiculous experiment? Explain the choice like a detective."
+    },
+    {
+      "id": "paranoia-195",
+      "prompt": "Who would volunteer first for a ridiculous experiment? Give the most chaotic reasonable answer."
+    },
+    {
+      "id": "paranoia-196",
+      "prompt": "Who would volunteer first for a ridiculous experiment? Pick someone who would find the answer funny."
+    },
+    {
+      "id": "paranoia-197",
+      "prompt": "Who would volunteer first for a ridiculous experiment? Answer as if there were a plot twist."
+    },
+    {
+      "id": "paranoia-198",
+      "prompt": "Who would volunteer first for a ridiculous experiment? Choose a person without repeating a previous pick."
+    },
+    {
+      "id": "paranoia-199",
+      "prompt": "Who would volunteer first for a ridiculous experiment? Give a mysterious one-line explanation."
+    },
+    {
+      "id": "paranoia-200",
+      "prompt": "Who would volunteer first for a ridiculous experiment? Make the answer dramatic but friendly."
+    }
+  ],
+  "nhie": [
+    {
+      "id": "nhie-001",
+      "prompt": "pretended to understand a conversation during a completely normal week."
+    },
+    {
+      "id": "nhie-002",
+      "prompt": "pretended to understand a conversation because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-003",
+      "prompt": "pretended to understand a conversation while trying to look completely confident."
+    },
+    {
+      "id": "nhie-004",
+      "prompt": "pretended to understand a conversation and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-005",
+      "prompt": "pretended to understand a conversation in front of at least one other person."
+    },
+    {
+      "id": "nhie-006",
+      "prompt": "pretended to understand a conversation after promising yourself you would not."
+    },
+    {
+      "id": "nhie-007",
+      "prompt": "pretended to understand a conversation and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-008",
+      "prompt": "pretended to understand a conversation while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-009",
+      "prompt": "pretended to understand a conversation for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-010",
+      "prompt": "pretended to understand a conversation and immediately told someone about it."
+    },
+    {
+      "id": "nhie-011",
+      "prompt": "laughed at a joke a second too late during a completely normal week."
+    },
+    {
+      "id": "nhie-012",
+      "prompt": "laughed at a joke a second too late because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-013",
+      "prompt": "laughed at a joke a second too late while trying to look completely confident."
+    },
+    {
+      "id": "nhie-014",
+      "prompt": "laughed at a joke a second too late and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-015",
+      "prompt": "laughed at a joke a second too late in front of at least one other person."
+    },
+    {
+      "id": "nhie-016",
+      "prompt": "laughed at a joke a second too late after promising yourself you would not."
+    },
+    {
+      "id": "nhie-017",
+      "prompt": "laughed at a joke a second too late and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-018",
+      "prompt": "laughed at a joke a second too late while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-019",
+      "prompt": "laughed at a joke a second too late for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-020",
+      "prompt": "laughed at a joke a second too late and immediately told someone about it."
+    },
+    {
+      "id": "nhie-021",
+      "prompt": "forgot why you walked into a room during a completely normal week."
+    },
+    {
+      "id": "nhie-022",
+      "prompt": "forgot why you walked into a room because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-023",
+      "prompt": "forgot why you walked into a room while trying to look completely confident."
+    },
+    {
+      "id": "nhie-024",
+      "prompt": "forgot why you walked into a room and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-025",
+      "prompt": "forgot why you walked into a room in front of at least one other person."
+    },
+    {
+      "id": "nhie-026",
+      "prompt": "forgot why you walked into a room after promising yourself you would not."
+    },
+    {
+      "id": "nhie-027",
+      "prompt": "forgot why you walked into a room and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-028",
+      "prompt": "forgot why you walked into a room while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-029",
+      "prompt": "forgot why you walked into a room for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-030",
+      "prompt": "forgot why you walked into a room and immediately told someone about it."
+    },
+    {
+      "id": "nhie-031",
+      "prompt": "made a playlist for a very specific mood during a completely normal week."
+    },
+    {
+      "id": "nhie-032",
+      "prompt": "made a playlist for a very specific mood because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-033",
+      "prompt": "made a playlist for a very specific mood while trying to look completely confident."
+    },
+    {
+      "id": "nhie-034",
+      "prompt": "made a playlist for a very specific mood and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-035",
+      "prompt": "made a playlist for a very specific mood in front of at least one other person."
+    },
+    {
+      "id": "nhie-036",
+      "prompt": "made a playlist for a very specific mood after promising yourself you would not."
+    },
+    {
+      "id": "nhie-037",
+      "prompt": "made a playlist for a very specific mood and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-038",
+      "prompt": "made a playlist for a very specific mood while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-039",
+      "prompt": "made a playlist for a very specific mood for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-040",
+      "prompt": "made a playlist for a very specific mood and immediately told someone about it."
+    },
+    {
+      "id": "nhie-041",
+      "prompt": "rehearsed a conversation before having it during a completely normal week."
+    },
+    {
+      "id": "nhie-042",
+      "prompt": "rehearsed a conversation before having it because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-043",
+      "prompt": "rehearsed a conversation before having it while trying to look completely confident."
+    },
+    {
+      "id": "nhie-044",
+      "prompt": "rehearsed a conversation before having it and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-045",
+      "prompt": "rehearsed a conversation before having it in front of at least one other person."
+    },
+    {
+      "id": "nhie-046",
+      "prompt": "rehearsed a conversation before having it after promising yourself you would not."
+    },
+    {
+      "id": "nhie-047",
+      "prompt": "rehearsed a conversation before having it and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-048",
+      "prompt": "rehearsed a conversation before having it while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-049",
+      "prompt": "rehearsed a conversation before having it for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-050",
+      "prompt": "rehearsed a conversation before having it and immediately told someone about it."
+    },
+    {
+      "id": "nhie-051",
+      "prompt": "waved back at someone who was not waving at you during a completely normal week."
+    },
+    {
+      "id": "nhie-052",
+      "prompt": "waved back at someone who was not waving at you because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-053",
+      "prompt": "waved back at someone who was not waving at you while trying to look completely confident."
+    },
+    {
+      "id": "nhie-054",
+      "prompt": "waved back at someone who was not waving at you and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-055",
+      "prompt": "waved back at someone who was not waving at you in front of at least one other person."
+    },
+    {
+      "id": "nhie-056",
+      "prompt": "waved back at someone who was not waving at you after promising yourself you would not."
+    },
+    {
+      "id": "nhie-057",
+      "prompt": "waved back at someone who was not waving at you and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-058",
+      "prompt": "waved back at someone who was not waving at you while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-059",
+      "prompt": "waved back at someone who was not waving at you for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-060",
+      "prompt": "waved back at someone who was not waving at you and immediately told someone about it."
+    },
+    {
+      "id": "nhie-061",
+      "prompt": "opened the fridge without knowing what you wanted during a completely normal week."
+    },
+    {
+      "id": "nhie-062",
+      "prompt": "opened the fridge without knowing what you wanted because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-063",
+      "prompt": "opened the fridge without knowing what you wanted while trying to look completely confident."
+    },
+    {
+      "id": "nhie-064",
+      "prompt": "opened the fridge without knowing what you wanted and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-065",
+      "prompt": "opened the fridge without knowing what you wanted in front of at least one other person."
+    },
+    {
+      "id": "nhie-066",
+      "prompt": "opened the fridge without knowing what you wanted after promising yourself you would not."
+    },
+    {
+      "id": "nhie-067",
+      "prompt": "opened the fridge without knowing what you wanted and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-068",
+      "prompt": "opened the fridge without knowing what you wanted while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-069",
+      "prompt": "opened the fridge without knowing what you wanted for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-070",
+      "prompt": "opened the fridge without knowing what you wanted and immediately told someone about it."
+    },
+    {
+      "id": "nhie-071",
+      "prompt": "given a nickname to an inanimate object during a completely normal week."
+    },
+    {
+      "id": "nhie-072",
+      "prompt": "given a nickname to an inanimate object because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-073",
+      "prompt": "given a nickname to an inanimate object while trying to look completely confident."
+    },
+    {
+      "id": "nhie-074",
+      "prompt": "given a nickname to an inanimate object and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-075",
+      "prompt": "given a nickname to an inanimate object in front of at least one other person."
+    },
+    {
+      "id": "nhie-076",
+      "prompt": "given a nickname to an inanimate object after promising yourself you would not."
+    },
+    {
+      "id": "nhie-077",
+      "prompt": "given a nickname to an inanimate object and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-078",
+      "prompt": "given a nickname to an inanimate object while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-079",
+      "prompt": "given a nickname to an inanimate object for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-080",
+      "prompt": "given a nickname to an inanimate object and immediately told someone about it."
+    },
+    {
+      "id": "nhie-081",
+      "prompt": "taken a screenshot to remember something and forgotten it during a completely normal week."
+    },
+    {
+      "id": "nhie-082",
+      "prompt": "taken a screenshot to remember something and forgotten it because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-083",
+      "prompt": "taken a screenshot to remember something and forgotten it while trying to look completely confident."
+    },
+    {
+      "id": "nhie-084",
+      "prompt": "taken a screenshot to remember something and forgotten it and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-085",
+      "prompt": "taken a screenshot to remember something and forgotten it in front of at least one other person."
+    },
+    {
+      "id": "nhie-086",
+      "prompt": "taken a screenshot to remember something and forgotten it after promising yourself you would not."
+    },
+    {
+      "id": "nhie-087",
+      "prompt": "taken a screenshot to remember something and forgotten it and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-088",
+      "prompt": "taken a screenshot to remember something and forgotten it while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-089",
+      "prompt": "taken a screenshot to remember something and forgotten it for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-090",
+      "prompt": "taken a screenshot to remember something and forgotten it and immediately told someone about it."
+    },
+    {
+      "id": "nhie-091",
+      "prompt": "used a search engine to spell a simple word during a completely normal week."
+    },
+    {
+      "id": "nhie-092",
+      "prompt": "used a search engine to spell a simple word because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-093",
+      "prompt": "used a search engine to spell a simple word while trying to look completely confident."
+    },
+    {
+      "id": "nhie-094",
+      "prompt": "used a search engine to spell a simple word and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-095",
+      "prompt": "used a search engine to spell a simple word in front of at least one other person."
+    },
+    {
+      "id": "nhie-096",
+      "prompt": "used a search engine to spell a simple word after promising yourself you would not."
+    },
+    {
+      "id": "nhie-097",
+      "prompt": "used a search engine to spell a simple word and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-098",
+      "prompt": "used a search engine to spell a simple word while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-099",
+      "prompt": "used a search engine to spell a simple word for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-100",
+      "prompt": "used a search engine to spell a simple word and immediately told someone about it."
+    },
+    {
+      "id": "nhie-101",
+      "prompt": "started a hobby and abandoned it within a week during a completely normal week."
+    },
+    {
+      "id": "nhie-102",
+      "prompt": "started a hobby and abandoned it within a week because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-103",
+      "prompt": "started a hobby and abandoned it within a week while trying to look completely confident."
+    },
+    {
+      "id": "nhie-104",
+      "prompt": "started a hobby and abandoned it within a week and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-105",
+      "prompt": "started a hobby and abandoned it within a week in front of at least one other person."
+    },
+    {
+      "id": "nhie-106",
+      "prompt": "started a hobby and abandoned it within a week after promising yourself you would not."
+    },
+    {
+      "id": "nhie-107",
+      "prompt": "started a hobby and abandoned it within a week and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-108",
+      "prompt": "started a hobby and abandoned it within a week while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-109",
+      "prompt": "started a hobby and abandoned it within a week for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-110",
+      "prompt": "started a hobby and abandoned it within a week and immediately told someone about it."
+    },
+    {
+      "id": "nhie-111",
+      "prompt": "acted busy to avoid an awkward hello during a completely normal week."
+    },
+    {
+      "id": "nhie-112",
+      "prompt": "acted busy to avoid an awkward hello because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-113",
+      "prompt": "acted busy to avoid an awkward hello while trying to look completely confident."
+    },
+    {
+      "id": "nhie-114",
+      "prompt": "acted busy to avoid an awkward hello and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-115",
+      "prompt": "acted busy to avoid an awkward hello in front of at least one other person."
+    },
+    {
+      "id": "nhie-116",
+      "prompt": "acted busy to avoid an awkward hello after promising yourself you would not."
+    },
+    {
+      "id": "nhie-117",
+      "prompt": "acted busy to avoid an awkward hello and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-118",
+      "prompt": "acted busy to avoid an awkward hello while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-119",
+      "prompt": "acted busy to avoid an awkward hello for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-120",
+      "prompt": "acted busy to avoid an awkward hello and immediately told someone about it."
+    },
+    {
+      "id": "nhie-121",
+      "prompt": "sent a message and immediately regretted the wording during a completely normal week."
+    },
+    {
+      "id": "nhie-122",
+      "prompt": "sent a message and immediately regretted the wording because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-123",
+      "prompt": "sent a message and immediately regretted the wording while trying to look completely confident."
+    },
+    {
+      "id": "nhie-124",
+      "prompt": "sent a message and immediately regretted the wording and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-125",
+      "prompt": "sent a message and immediately regretted the wording in front of at least one other person."
+    },
+    {
+      "id": "nhie-126",
+      "prompt": "sent a message and immediately regretted the wording after promising yourself you would not."
+    },
+    {
+      "id": "nhie-127",
+      "prompt": "sent a message and immediately regretted the wording and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-128",
+      "prompt": "sent a message and immediately regretted the wording while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-129",
+      "prompt": "sent a message and immediately regretted the wording for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-130",
+      "prompt": "sent a message and immediately regretted the wording and immediately told someone about it."
+    },
+    {
+      "id": "nhie-131",
+      "prompt": "made a plan mainly because snacks were involved during a completely normal week."
+    },
+    {
+      "id": "nhie-132",
+      "prompt": "made a plan mainly because snacks were involved because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-133",
+      "prompt": "made a plan mainly because snacks were involved while trying to look completely confident."
+    },
+    {
+      "id": "nhie-134",
+      "prompt": "made a plan mainly because snacks were involved and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-135",
+      "prompt": "made a plan mainly because snacks were involved in front of at least one other person."
+    },
+    {
+      "id": "nhie-136",
+      "prompt": "made a plan mainly because snacks were involved after promising yourself you would not."
+    },
+    {
+      "id": "nhie-137",
+      "prompt": "made a plan mainly because snacks were involved and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-138",
+      "prompt": "made a plan mainly because snacks were involved while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-139",
+      "prompt": "made a plan mainly because snacks were involved for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-140",
+      "prompt": "made a plan mainly because snacks were involved and immediately told someone about it."
+    },
+    {
+      "id": "nhie-141",
+      "prompt": "looked for your phone while holding it during a completely normal week."
+    },
+    {
+      "id": "nhie-142",
+      "prompt": "looked for your phone while holding it because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-143",
+      "prompt": "looked for your phone while holding it while trying to look completely confident."
+    },
+    {
+      "id": "nhie-144",
+      "prompt": "looked for your phone while holding it and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-145",
+      "prompt": "looked for your phone while holding it in front of at least one other person."
+    },
+    {
+      "id": "nhie-146",
+      "prompt": "looked for your phone while holding it after promising yourself you would not."
+    },
+    {
+      "id": "nhie-147",
+      "prompt": "looked for your phone while holding it and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-148",
+      "prompt": "looked for your phone while holding it while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-149",
+      "prompt": "looked for your phone while holding it for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-150",
+      "prompt": "looked for your phone while holding it and immediately told someone about it."
+    },
+    {
+      "id": "nhie-151",
+      "prompt": "practiced an explanation that nobody asked for during a completely normal week."
+    },
+    {
+      "id": "nhie-152",
+      "prompt": "practiced an explanation that nobody asked for because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-153",
+      "prompt": "practiced an explanation that nobody asked for while trying to look completely confident."
+    },
+    {
+      "id": "nhie-154",
+      "prompt": "practiced an explanation that nobody asked for and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-155",
+      "prompt": "practiced an explanation that nobody asked for in front of at least one other person."
+    },
+    {
+      "id": "nhie-156",
+      "prompt": "practiced an explanation that nobody asked for after promising yourself you would not."
+    },
+    {
+      "id": "nhie-157",
+      "prompt": "practiced an explanation that nobody asked for and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-158",
+      "prompt": "practiced an explanation that nobody asked for while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-159",
+      "prompt": "practiced an explanation that nobody asked for for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-160",
+      "prompt": "practiced an explanation that nobody asked for and immediately told someone about it."
+    },
+    {
+      "id": "nhie-161",
+      "prompt": "pretended to recognize someone you did not recognize during a completely normal week."
+    },
+    {
+      "id": "nhie-162",
+      "prompt": "pretended to recognize someone you did not recognize because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-163",
+      "prompt": "pretended to recognize someone you did not recognize while trying to look completely confident."
+    },
+    {
+      "id": "nhie-164",
+      "prompt": "pretended to recognize someone you did not recognize and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-165",
+      "prompt": "pretended to recognize someone you did not recognize in front of at least one other person."
+    },
+    {
+      "id": "nhie-166",
+      "prompt": "pretended to recognize someone you did not recognize after promising yourself you would not."
+    },
+    {
+      "id": "nhie-167",
+      "prompt": "pretended to recognize someone you did not recognize and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-168",
+      "prompt": "pretended to recognize someone you did not recognize while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-169",
+      "prompt": "pretended to recognize someone you did not recognize for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-170",
+      "prompt": "pretended to recognize someone you did not recognize and immediately told someone about it."
+    },
+    {
+      "id": "nhie-171",
+      "prompt": "stayed up late for a completely unimportant reason during a completely normal week."
+    },
+    {
+      "id": "nhie-172",
+      "prompt": "stayed up late for a completely unimportant reason because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-173",
+      "prompt": "stayed up late for a completely unimportant reason while trying to look completely confident."
+    },
+    {
+      "id": "nhie-174",
+      "prompt": "stayed up late for a completely unimportant reason and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-175",
+      "prompt": "stayed up late for a completely unimportant reason in front of at least one other person."
+    },
+    {
+      "id": "nhie-176",
+      "prompt": "stayed up late for a completely unimportant reason after promising yourself you would not."
+    },
+    {
+      "id": "nhie-177",
+      "prompt": "stayed up late for a completely unimportant reason and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-178",
+      "prompt": "stayed up late for a completely unimportant reason while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-179",
+      "prompt": "stayed up late for a completely unimportant reason for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-180",
+      "prompt": "stayed up late for a completely unimportant reason and immediately told someone about it."
+    },
+    {
+      "id": "nhie-181",
+      "prompt": "made a dramatic exit and had to come back during a completely normal week."
+    },
+    {
+      "id": "nhie-182",
+      "prompt": "made a dramatic exit and had to come back because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-183",
+      "prompt": "made a dramatic exit and had to come back while trying to look completely confident."
+    },
+    {
+      "id": "nhie-184",
+      "prompt": "made a dramatic exit and had to come back and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-185",
+      "prompt": "made a dramatic exit and had to come back in front of at least one other person."
+    },
+    {
+      "id": "nhie-186",
+      "prompt": "made a dramatic exit and had to come back after promising yourself you would not."
+    },
+    {
+      "id": "nhie-187",
+      "prompt": "made a dramatic exit and had to come back and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-188",
+      "prompt": "made a dramatic exit and had to come back while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-189",
+      "prompt": "made a dramatic exit and had to come back for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-190",
+      "prompt": "made a dramatic exit and had to come back and immediately told someone about it."
+    },
+    {
+      "id": "nhie-191",
+      "prompt": "named a file something you later could not find during a completely normal week."
+    },
+    {
+      "id": "nhie-192",
+      "prompt": "named a file something you later could not find because you were more tired than you admitted."
+    },
+    {
+      "id": "nhie-193",
+      "prompt": "named a file something you later could not find while trying to look completely confident."
+    },
+    {
+      "id": "nhie-194",
+      "prompt": "named a file something you later could not find and then acted like it was intentional."
+    },
+    {
+      "id": "nhie-195",
+      "prompt": "named a file something you later could not find in front of at least one other person."
+    },
+    {
+      "id": "nhie-196",
+      "prompt": "named a file something you later could not find after promising yourself you would not."
+    },
+    {
+      "id": "nhie-197",
+      "prompt": "named a file something you later could not find and only realized how funny it was later."
+    },
+    {
+      "id": "nhie-198",
+      "prompt": "named a file something you later could not find while a friend was waiting for an answer."
+    },
+    {
+      "id": "nhie-199",
+      "prompt": "named a file something you later could not find for a reason that still makes sense to you."
+    },
+    {
+      "id": "nhie-200",
+      "prompt": "named a file something you later could not find and immediately told someone about it."
+    }
+  ],
+  "wouldyourather": [
+    {
+      "id": "wouldyourather-001",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "always know when someone is lying",
+      "option_b": "always know when someone is hiding a surprise"
+    },
+    {
+      "id": "wouldyourather-002",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "always know when someone is lying",
+      "option_b": "always know when someone is hiding a surprise"
+    },
+    {
+      "id": "wouldyourather-003",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "always know when someone is lying",
+      "option_b": "always know when someone is hiding a surprise"
+    },
+    {
+      "id": "wouldyourather-004",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "always know when someone is lying",
+      "option_b": "always know when someone is hiding a surprise"
+    },
+    {
+      "id": "wouldyourather-005",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "always know when someone is lying",
+      "option_b": "always know when someone is hiding a surprise"
+    },
+    {
+      "id": "wouldyourather-006",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "always know when someone is lying",
+      "option_b": "always know when someone is hiding a surprise"
+    },
+    {
+      "id": "wouldyourather-007",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "always know when someone is lying",
+      "option_b": "always know when someone is hiding a surprise"
+    },
+    {
+      "id": "wouldyourather-008",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "always know when someone is lying",
+      "option_b": "always know when someone is hiding a surprise"
+    },
+    {
+      "id": "wouldyourather-009",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "always know when someone is lying",
+      "option_b": "always know when someone is hiding a surprise"
+    },
+    {
+      "id": "wouldyourather-010",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "always know when someone is lying",
+      "option_b": "always know when someone is hiding a surprise"
+    },
+    {
+      "id": "wouldyourather-011",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "live in a library",
+      "option_b": "live in a cinema"
+    },
+    {
+      "id": "wouldyourather-012",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "live in a library",
+      "option_b": "live in a cinema"
+    },
+    {
+      "id": "wouldyourather-013",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "live in a library",
+      "option_b": "live in a cinema"
+    },
+    {
+      "id": "wouldyourather-014",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "live in a library",
+      "option_b": "live in a cinema"
+    },
+    {
+      "id": "wouldyourather-015",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "live in a library",
+      "option_b": "live in a cinema"
+    },
+    {
+      "id": "wouldyourather-016",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "live in a library",
+      "option_b": "live in a cinema"
+    },
+    {
+      "id": "wouldyourather-017",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "live in a library",
+      "option_b": "live in a cinema"
+    },
+    {
+      "id": "wouldyourather-018",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "live in a library",
+      "option_b": "live in a cinema"
+    },
+    {
+      "id": "wouldyourather-019",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "live in a library",
+      "option_b": "live in a cinema"
+    },
+    {
+      "id": "wouldyourather-020",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "live in a library",
+      "option_b": "live in a cinema"
+    },
+    {
+      "id": "wouldyourather-021",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "have a rewind button",
+      "option_b": "have a pause button"
+    },
+    {
+      "id": "wouldyourather-022",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "have a rewind button",
+      "option_b": "have a pause button"
+    },
+    {
+      "id": "wouldyourather-023",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "have a rewind button",
+      "option_b": "have a pause button"
+    },
+    {
+      "id": "wouldyourather-024",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "have a rewind button",
+      "option_b": "have a pause button"
+    },
+    {
+      "id": "wouldyourather-025",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "have a rewind button",
+      "option_b": "have a pause button"
+    },
+    {
+      "id": "wouldyourather-026",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "have a rewind button",
+      "option_b": "have a pause button"
+    },
+    {
+      "id": "wouldyourather-027",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "have a rewind button",
+      "option_b": "have a pause button"
+    },
+    {
+      "id": "wouldyourather-028",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "have a rewind button",
+      "option_b": "have a pause button"
+    },
+    {
+      "id": "wouldyourather-029",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "have a rewind button",
+      "option_b": "have a pause button"
+    },
+    {
+      "id": "wouldyourather-030",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "have a rewind button",
+      "option_b": "have a pause button"
+    },
+    {
+      "id": "wouldyourather-031",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "talk to animals",
+      "option_b": "speak every human language"
+    },
+    {
+      "id": "wouldyourather-032",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "talk to animals",
+      "option_b": "speak every human language"
+    },
+    {
+      "id": "wouldyourather-033",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "talk to animals",
+      "option_b": "speak every human language"
+    },
+    {
+      "id": "wouldyourather-034",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "talk to animals",
+      "option_b": "speak every human language"
+    },
+    {
+      "id": "wouldyourather-035",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "talk to animals",
+      "option_b": "speak every human language"
+    },
+    {
+      "id": "wouldyourather-036",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "talk to animals",
+      "option_b": "speak every human language"
+    },
+    {
+      "id": "wouldyourather-037",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "talk to animals",
+      "option_b": "speak every human language"
+    },
+    {
+      "id": "wouldyourather-038",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "talk to animals",
+      "option_b": "speak every human language"
+    },
+    {
+      "id": "wouldyourather-039",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "talk to animals",
+      "option_b": "speak every human language"
+    },
+    {
+      "id": "wouldyourather-040",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "talk to animals",
+      "option_b": "speak every human language"
+    },
+    {
+      "id": "wouldyourather-041",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "be famous for talent",
+      "option_b": "be famous for kindness"
+    },
+    {
+      "id": "wouldyourather-042",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "be famous for talent",
+      "option_b": "be famous for kindness"
+    },
+    {
+      "id": "wouldyourather-043",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "be famous for talent",
+      "option_b": "be famous for kindness"
+    },
+    {
+      "id": "wouldyourather-044",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "be famous for talent",
+      "option_b": "be famous for kindness"
+    },
+    {
+      "id": "wouldyourather-045",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "be famous for talent",
+      "option_b": "be famous for kindness"
+    },
+    {
+      "id": "wouldyourather-046",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "be famous for talent",
+      "option_b": "be famous for kindness"
+    },
+    {
+      "id": "wouldyourather-047",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "be famous for talent",
+      "option_b": "be famous for kindness"
+    },
+    {
+      "id": "wouldyourather-048",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "be famous for talent",
+      "option_b": "be famous for kindness"
+    },
+    {
+      "id": "wouldyourather-049",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "be famous for talent",
+      "option_b": "be famous for kindness"
+    },
+    {
+      "id": "wouldyourather-050",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "be famous for talent",
+      "option_b": "be famous for kindness"
+    },
+    {
+      "id": "wouldyourather-051",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "explore the deepest ocean",
+      "option_b": "explore the farthest desert"
+    },
+    {
+      "id": "wouldyourather-052",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "explore the deepest ocean",
+      "option_b": "explore the farthest desert"
+    },
+    {
+      "id": "wouldyourather-053",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "explore the deepest ocean",
+      "option_b": "explore the farthest desert"
+    },
+    {
+      "id": "wouldyourather-054",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "explore the deepest ocean",
+      "option_b": "explore the farthest desert"
+    },
+    {
+      "id": "wouldyourather-055",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "explore the deepest ocean",
+      "option_b": "explore the farthest desert"
+    },
+    {
+      "id": "wouldyourather-056",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "explore the deepest ocean",
+      "option_b": "explore the farthest desert"
+    },
+    {
+      "id": "wouldyourather-057",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "explore the deepest ocean",
+      "option_b": "explore the farthest desert"
+    },
+    {
+      "id": "wouldyourather-058",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "explore the deepest ocean",
+      "option_b": "explore the farthest desert"
+    },
+    {
+      "id": "wouldyourather-059",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "explore the deepest ocean",
+      "option_b": "explore the farthest desert"
+    },
+    {
+      "id": "wouldyourather-060",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "explore the deepest ocean",
+      "option_b": "explore the farthest desert"
+    },
+    {
+      "id": "wouldyourather-061",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "never wait in a queue",
+      "option_b": "never sit in traffic"
+    },
+    {
+      "id": "wouldyourather-062",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "never wait in a queue",
+      "option_b": "never sit in traffic"
+    },
+    {
+      "id": "wouldyourather-063",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "never wait in a queue",
+      "option_b": "never sit in traffic"
+    },
+    {
+      "id": "wouldyourather-064",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "never wait in a queue",
+      "option_b": "never sit in traffic"
+    },
+    {
+      "id": "wouldyourather-065",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "never wait in a queue",
+      "option_b": "never sit in traffic"
+    },
+    {
+      "id": "wouldyourather-066",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "never wait in a queue",
+      "option_b": "never sit in traffic"
+    },
+    {
+      "id": "wouldyourather-067",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "never wait in a queue",
+      "option_b": "never sit in traffic"
+    },
+    {
+      "id": "wouldyourather-068",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "never wait in a queue",
+      "option_b": "never sit in traffic"
+    },
+    {
+      "id": "wouldyourather-069",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "never wait in a queue",
+      "option_b": "never sit in traffic"
+    },
+    {
+      "id": "wouldyourather-070",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "never wait in a queue",
+      "option_b": "never sit in traffic"
+    },
+    {
+      "id": "wouldyourather-071",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "have perfect memory",
+      "option_b": "have perfect timing"
+    },
+    {
+      "id": "wouldyourather-072",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "have perfect memory",
+      "option_b": "have perfect timing"
+    },
+    {
+      "id": "wouldyourather-073",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "have perfect memory",
+      "option_b": "have perfect timing"
+    },
+    {
+      "id": "wouldyourather-074",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "have perfect memory",
+      "option_b": "have perfect timing"
+    },
+    {
+      "id": "wouldyourather-075",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "have perfect memory",
+      "option_b": "have perfect timing"
+    },
+    {
+      "id": "wouldyourather-076",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "have perfect memory",
+      "option_b": "have perfect timing"
+    },
+    {
+      "id": "wouldyourather-077",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "have perfect memory",
+      "option_b": "have perfect timing"
+    },
+    {
+      "id": "wouldyourather-078",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "have perfect memory",
+      "option_b": "have perfect timing"
+    },
+    {
+      "id": "wouldyourather-079",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "have perfect memory",
+      "option_b": "have perfect timing"
+    },
+    {
+      "id": "wouldyourather-080",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "have perfect memory",
+      "option_b": "have perfect timing"
+    },
+    {
+      "id": "wouldyourather-081",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "own a tiny dragon",
+      "option_b": "own a giant friendly robot"
+    },
+    {
+      "id": "wouldyourather-082",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "own a tiny dragon",
+      "option_b": "own a giant friendly robot"
+    },
+    {
+      "id": "wouldyourather-083",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "own a tiny dragon",
+      "option_b": "own a giant friendly robot"
+    },
+    {
+      "id": "wouldyourather-084",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "own a tiny dragon",
+      "option_b": "own a giant friendly robot"
+    },
+    {
+      "id": "wouldyourather-085",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "own a tiny dragon",
+      "option_b": "own a giant friendly robot"
+    },
+    {
+      "id": "wouldyourather-086",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "own a tiny dragon",
+      "option_b": "own a giant friendly robot"
+    },
+    {
+      "id": "wouldyourather-087",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "own a tiny dragon",
+      "option_b": "own a giant friendly robot"
+    },
+    {
+      "id": "wouldyourather-088",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "own a tiny dragon",
+      "option_b": "own a giant friendly robot"
+    },
+    {
+      "id": "wouldyourather-089",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "own a tiny dragon",
+      "option_b": "own a giant friendly robot"
+    },
+    {
+      "id": "wouldyourather-090",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "own a tiny dragon",
+      "option_b": "own a giant friendly robot"
+    },
+    {
+      "id": "wouldyourather-091",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "always find lost objects",
+      "option_b": "always find the perfect parking spot"
+    },
+    {
+      "id": "wouldyourather-092",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "always find lost objects",
+      "option_b": "always find the perfect parking spot"
+    },
+    {
+      "id": "wouldyourather-093",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "always find lost objects",
+      "option_b": "always find the perfect parking spot"
+    },
+    {
+      "id": "wouldyourather-094",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "always find lost objects",
+      "option_b": "always find the perfect parking spot"
+    },
+    {
+      "id": "wouldyourather-095",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "always find lost objects",
+      "option_b": "always find the perfect parking spot"
+    },
+    {
+      "id": "wouldyourather-096",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "always find lost objects",
+      "option_b": "always find the perfect parking spot"
+    },
+    {
+      "id": "wouldyourather-097",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "always find lost objects",
+      "option_b": "always find the perfect parking spot"
+    },
+    {
+      "id": "wouldyourather-098",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "always find lost objects",
+      "option_b": "always find the perfect parking spot"
+    },
+    {
+      "id": "wouldyourather-099",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "always find lost objects",
+      "option_b": "always find the perfect parking spot"
+    },
+    {
+      "id": "wouldyourather-100",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "always find lost objects",
+      "option_b": "always find the perfect parking spot"
+    },
+    {
+      "id": "wouldyourather-101",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "be the funniest person in every room",
+      "option_b": "be the wisest person in every room"
+    },
+    {
+      "id": "wouldyourather-102",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "be the funniest person in every room",
+      "option_b": "be the wisest person in every room"
+    },
+    {
+      "id": "wouldyourather-103",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "be the funniest person in every room",
+      "option_b": "be the wisest person in every room"
+    },
+    {
+      "id": "wouldyourather-104",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "be the funniest person in every room",
+      "option_b": "be the wisest person in every room"
+    },
+    {
+      "id": "wouldyourather-105",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "be the funniest person in every room",
+      "option_b": "be the wisest person in every room"
+    },
+    {
+      "id": "wouldyourather-106",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "be the funniest person in every room",
+      "option_b": "be the wisest person in every room"
+    },
+    {
+      "id": "wouldyourather-107",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "be the funniest person in every room",
+      "option_b": "be the wisest person in every room"
+    },
+    {
+      "id": "wouldyourather-108",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "be the funniest person in every room",
+      "option_b": "be the wisest person in every room"
+    },
+    {
+      "id": "wouldyourather-109",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "be the funniest person in every room",
+      "option_b": "be the wisest person in every room"
+    },
+    {
+      "id": "wouldyourather-110",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "be the funniest person in every room",
+      "option_b": "be the wisest person in every room"
+    },
+    {
+      "id": "wouldyourather-111",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "visit the past once",
+      "option_b": "visit the future once"
+    },
+    {
+      "id": "wouldyourather-112",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "visit the past once",
+      "option_b": "visit the future once"
+    },
+    {
+      "id": "wouldyourather-113",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "visit the past once",
+      "option_b": "visit the future once"
+    },
+    {
+      "id": "wouldyourather-114",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "visit the past once",
+      "option_b": "visit the future once"
+    },
+    {
+      "id": "wouldyourather-115",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "visit the past once",
+      "option_b": "visit the future once"
+    },
+    {
+      "id": "wouldyourather-116",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "visit the past once",
+      "option_b": "visit the future once"
+    },
+    {
+      "id": "wouldyourather-117",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "visit the past once",
+      "option_b": "visit the future once"
+    },
+    {
+      "id": "wouldyourather-118",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "visit the past once",
+      "option_b": "visit the future once"
+    },
+    {
+      "id": "wouldyourather-119",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "visit the past once",
+      "option_b": "visit the future once"
+    },
+    {
+      "id": "wouldyourather-120",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "visit the past once",
+      "option_b": "visit the future once"
+    },
+    {
+      "id": "wouldyourather-121",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "have breakfast for every meal",
+      "option_b": "have dessert for every meal"
+    },
+    {
+      "id": "wouldyourather-122",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "have breakfast for every meal",
+      "option_b": "have dessert for every meal"
+    },
+    {
+      "id": "wouldyourather-123",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "have breakfast for every meal",
+      "option_b": "have dessert for every meal"
+    },
+    {
+      "id": "wouldyourather-124",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "have breakfast for every meal",
+      "option_b": "have dessert for every meal"
+    },
+    {
+      "id": "wouldyourather-125",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "have breakfast for every meal",
+      "option_b": "have dessert for every meal"
+    },
+    {
+      "id": "wouldyourather-126",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "have breakfast for every meal",
+      "option_b": "have dessert for every meal"
+    },
+    {
+      "id": "wouldyourather-127",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "have breakfast for every meal",
+      "option_b": "have dessert for every meal"
+    },
+    {
+      "id": "wouldyourather-128",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "have breakfast for every meal",
+      "option_b": "have dessert for every meal"
+    },
+    {
+      "id": "wouldyourather-129",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "have breakfast for every meal",
+      "option_b": "have dessert for every meal"
+    },
+    {
+      "id": "wouldyourather-130",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "have breakfast for every meal",
+      "option_b": "have dessert for every meal"
+    },
+    {
+      "id": "wouldyourather-131",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "be able to fly slowly",
+      "option_b": "be able to teleport once a day"
+    },
+    {
+      "id": "wouldyourather-132",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "be able to fly slowly",
+      "option_b": "be able to teleport once a day"
+    },
+    {
+      "id": "wouldyourather-133",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "be able to fly slowly",
+      "option_b": "be able to teleport once a day"
+    },
+    {
+      "id": "wouldyourather-134",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "be able to fly slowly",
+      "option_b": "be able to teleport once a day"
+    },
+    {
+      "id": "wouldyourather-135",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "be able to fly slowly",
+      "option_b": "be able to teleport once a day"
+    },
+    {
+      "id": "wouldyourather-136",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "be able to fly slowly",
+      "option_b": "be able to teleport once a day"
+    },
+    {
+      "id": "wouldyourather-137",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "be able to fly slowly",
+      "option_b": "be able to teleport once a day"
+    },
+    {
+      "id": "wouldyourather-138",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "be able to fly slowly",
+      "option_b": "be able to teleport once a day"
+    },
+    {
+      "id": "wouldyourather-139",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "be able to fly slowly",
+      "option_b": "be able to teleport once a day"
+    },
+    {
+      "id": "wouldyourather-140",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "be able to fly slowly",
+      "option_b": "be able to teleport once a day"
+    },
+    {
+      "id": "wouldyourather-141",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "live without music",
+      "option_b": "live without movies"
+    },
+    {
+      "id": "wouldyourather-142",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "live without music",
+      "option_b": "live without movies"
+    },
+    {
+      "id": "wouldyourather-143",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "live without music",
+      "option_b": "live without movies"
+    },
+    {
+      "id": "wouldyourather-144",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "live without music",
+      "option_b": "live without movies"
+    },
+    {
+      "id": "wouldyourather-145",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "live without music",
+      "option_b": "live without movies"
+    },
+    {
+      "id": "wouldyourather-146",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "live without music",
+      "option_b": "live without movies"
+    },
+    {
+      "id": "wouldyourather-147",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "live without music",
+      "option_b": "live without movies"
+    },
+    {
+      "id": "wouldyourather-148",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "live without music",
+      "option_b": "live without movies"
+    },
+    {
+      "id": "wouldyourather-149",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "live without music",
+      "option_b": "live without movies"
+    },
+    {
+      "id": "wouldyourather-150",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "live without music",
+      "option_b": "live without movies"
+    },
+    {
+      "id": "wouldyourather-151",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "have a personal chef",
+      "option_b": "have a personal travel guide"
+    },
+    {
+      "id": "wouldyourather-152",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "have a personal chef",
+      "option_b": "have a personal travel guide"
+    },
+    {
+      "id": "wouldyourather-153",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "have a personal chef",
+      "option_b": "have a personal travel guide"
+    },
+    {
+      "id": "wouldyourather-154",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "have a personal chef",
+      "option_b": "have a personal travel guide"
+    },
+    {
+      "id": "wouldyourather-155",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "have a personal chef",
+      "option_b": "have a personal travel guide"
+    },
+    {
+      "id": "wouldyourather-156",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "have a personal chef",
+      "option_b": "have a personal travel guide"
+    },
+    {
+      "id": "wouldyourather-157",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "have a personal chef",
+      "option_b": "have a personal travel guide"
+    },
+    {
+      "id": "wouldyourather-158",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "have a personal chef",
+      "option_b": "have a personal travel guide"
+    },
+    {
+      "id": "wouldyourather-159",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "have a personal chef",
+      "option_b": "have a personal travel guide"
+    },
+    {
+      "id": "wouldyourather-160",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "have a personal chef",
+      "option_b": "have a personal travel guide"
+    },
+    {
+      "id": "wouldyourather-161",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "win every board game",
+      "option_b": "win every argument"
+    },
+    {
+      "id": "wouldyourather-162",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "win every board game",
+      "option_b": "win every argument"
+    },
+    {
+      "id": "wouldyourather-163",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "win every board game",
+      "option_b": "win every argument"
+    },
+    {
+      "id": "wouldyourather-164",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "win every board game",
+      "option_b": "win every argument"
+    },
+    {
+      "id": "wouldyourather-165",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "win every board game",
+      "option_b": "win every argument"
+    },
+    {
+      "id": "wouldyourather-166",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "win every board game",
+      "option_b": "win every argument"
+    },
+    {
+      "id": "wouldyourather-167",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "win every board game",
+      "option_b": "win every argument"
+    },
+    {
+      "id": "wouldyourather-168",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "win every board game",
+      "option_b": "win every argument"
+    },
+    {
+      "id": "wouldyourather-169",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "win every board game",
+      "option_b": "win every argument"
+    },
+    {
+      "id": "wouldyourather-170",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "win every board game",
+      "option_b": "win every argument"
+    },
+    {
+      "id": "wouldyourather-171",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "always be five minutes early",
+      "option_b": "always be five minutes late"
+    },
+    {
+      "id": "wouldyourather-172",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "always be five minutes early",
+      "option_b": "always be five minutes late"
+    },
+    {
+      "id": "wouldyourather-173",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "always be five minutes early",
+      "option_b": "always be five minutes late"
+    },
+    {
+      "id": "wouldyourather-174",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "always be five minutes early",
+      "option_b": "always be five minutes late"
+    },
+    {
+      "id": "wouldyourather-175",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "always be five minutes early",
+      "option_b": "always be five minutes late"
+    },
+    {
+      "id": "wouldyourather-176",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "always be five minutes early",
+      "option_b": "always be five minutes late"
+    },
+    {
+      "id": "wouldyourather-177",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "always be five minutes early",
+      "option_b": "always be five minutes late"
+    },
+    {
+      "id": "wouldyourather-178",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "always be five minutes early",
+      "option_b": "always be five minutes late"
+    },
+    {
+      "id": "wouldyourather-179",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "always be five minutes early",
+      "option_b": "always be five minutes late"
+    },
+    {
+      "id": "wouldyourather-180",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "always be five minutes early",
+      "option_b": "always be five minutes late"
+    },
+    {
+      "id": "wouldyourather-181",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "control the weather nearby",
+      "option_b": "control the lights nearby"
+    },
+    {
+      "id": "wouldyourather-182",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "control the weather nearby",
+      "option_b": "control the lights nearby"
+    },
+    {
+      "id": "wouldyourather-183",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "control the weather nearby",
+      "option_b": "control the lights nearby"
+    },
+    {
+      "id": "wouldyourather-184",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "control the weather nearby",
+      "option_b": "control the lights nearby"
+    },
+    {
+      "id": "wouldyourather-185",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "control the weather nearby",
+      "option_b": "control the lights nearby"
+    },
+    {
+      "id": "wouldyourather-186",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "control the weather nearby",
+      "option_b": "control the lights nearby"
+    },
+    {
+      "id": "wouldyourather-187",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "control the weather nearby",
+      "option_b": "control the lights nearby"
+    },
+    {
+      "id": "wouldyourather-188",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "control the weather nearby",
+      "option_b": "control the lights nearby"
+    },
+    {
+      "id": "wouldyourather-189",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "control the weather nearby",
+      "option_b": "control the lights nearby"
+    },
+    {
+      "id": "wouldyourather-190",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "control the weather nearby",
+      "option_b": "control the lights nearby"
+    },
+    {
+      "id": "wouldyourather-191",
+      "prompt": "Which would you choose for the next year.",
+      "option_a": "have unlimited books",
+      "option_b": "have unlimited concert tickets"
+    },
+    {
+      "id": "wouldyourather-192",
+      "prompt": "Which would you choose on your next big adventure.",
+      "option_a": "have unlimited books",
+      "option_b": "have unlimited concert tickets"
+    },
+    {
+      "id": "wouldyourather-193",
+      "prompt": "Which would you choose if everyone in the group had to follow your choice.",
+      "option_a": "have unlimited books",
+      "option_b": "have unlimited concert tickets"
+    },
+    {
+      "id": "wouldyourather-194",
+      "prompt": "Which would you choose during a completely unexpected vacation.",
+      "option_a": "have unlimited books",
+      "option_b": "have unlimited concert tickets"
+    },
+    {
+      "id": "wouldyourather-195",
+      "prompt": "Which would you choose if the choice came with one surprising bonus.",
+      "option_a": "have unlimited books",
+      "option_b": "have unlimited concert tickets"
+    },
+    {
+      "id": "wouldyourather-196",
+      "prompt": "Which would you choose when making a decision under pressure.",
+      "option_a": "have unlimited books",
+      "option_b": "have unlimited concert tickets"
+    },
+    {
+      "id": "wouldyourather-197",
+      "prompt": "Which would you choose if you had to defend the choice to the group.",
+      "option_a": "have unlimited books",
+      "option_b": "have unlimited concert tickets"
+    },
+    {
+      "id": "wouldyourather-198",
+      "prompt": "Which would you choose for a story you would tell for years.",
+      "option_a": "have unlimited books",
+      "option_b": "have unlimited concert tickets"
+    },
+    {
+      "id": "wouldyourather-199",
+      "prompt": "Which would you choose if both options were equally convenient.",
+      "option_a": "have unlimited books",
+      "option_b": "have unlimited concert tickets"
+    },
+    {
+      "id": "wouldyourather-200",
+      "prompt": "Which would you choose and explain your reasoning afterward.",
+      "option_a": "have unlimited books",
+      "option_b": "have unlimited concert tickets"
+    }
+  ]
+}

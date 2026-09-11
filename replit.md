@@ -1,9 +1,10 @@
-# [Project name]
+# dreamscape Bot
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A blank Python starter app for dreamscape Bot.
 
 ## Run & Operate
 
+- `python main.py` — run the Python app
 - `pnpm --filter @workspace/api-server run dev` — run the API server (port 5000)
 - `pnpm run typecheck` — full typecheck across all packages
 - `pnpm run build` — typecheck + build all packages
