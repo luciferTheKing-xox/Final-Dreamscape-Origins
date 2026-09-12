@@ -11,6 +11,14 @@ from pathlib import Path
 import discord
 from discord import app_commands
 
+from new_games import (
+    CONTENT_GAME_KEYS,
+    CONTENT_GAME_LABELS,
+    content_counts,
+    load_content_store,
+    register_new_game_commands,
+)
+
 
 WARNING_STORE_PATH = Path("warnings.json")
 REMINDER_STORE_PATH = Path("reminders.json")
@@ -808,11 +816,13 @@ def main() -> None:
         raise RuntimeError("DISCORD_TOKEN is not set.")
 
     intents = discord.Intents.default()
+    intents.members = True
     client = discord.Client(intents=intents)
     command_tree = app_commands.CommandTree(client)
     warning_store = load_warning_store()
     reminder_store = load_reminder_store()
     question_store = load_game_question_store()
+    content_store = load_content_store()
     active_sessions: dict[int, discord.ui.View] = {}
     reminder_task: asyncio.Task[None] | None = None
 
@@ -966,6 +976,12 @@ def main() -> None:
             embed.add_field(
                 name=labels[category],
                 value=str(len(get_game_questions(question_store, category))),
+                inline=True,
+            )
+        for category in CONTENT_GAME_KEYS:
+            embed.add_field(
+                name=CONTENT_GAME_LABELS[category],
+                value=str(content_counts(content_store).get(category, 0)),
                 inline=True,
             )
         await interaction.response.send_message(embed=embed)
@@ -2276,6 +2292,13 @@ def main() -> None:
                 "You need the Manage Messages permission to use this command.",
                 ephemeral=True,
             )
+
+    register_new_game_commands(
+        command_tree,
+        client,
+        content_store,
+        active_sessions,
+    )
 
     @client.event
     async def setup_hook() -> None:
