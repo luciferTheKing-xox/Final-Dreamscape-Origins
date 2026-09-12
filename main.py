@@ -60,7 +60,20 @@ def load_warning_store() -> dict[str, dict[str, list[dict[str, str]]]]:
 
     if not isinstance(data, dict):
         return {}
-    return data
+    normalized: dict[str, dict[str, list[dict[str, str]]]] = {}
+    for guild_id, guild_warnings in data.items():
+        if not isinstance(guild_warnings, dict):
+            continue
+        members: dict[str, list[dict[str, str]]] = {}
+        for member_id, warnings in guild_warnings.items():
+            if not isinstance(warnings, list):
+                continue
+            valid_warnings = [warning for warning in warnings if isinstance(warning, dict)]
+            if valid_warnings:
+                members[str(member_id)] = valid_warnings
+        if members:
+            normalized[str(guild_id)] = members
+    return normalized
 
 
 def save_warning_store(store: dict[str, dict[str, list[dict[str, str]]]]) -> None:
@@ -86,7 +99,7 @@ def load_reminder_store() -> list[dict[str, str | int]]:
 
     if not isinstance(data, list):
         return []
-    return data
+    return [reminder for reminder in data if isinstance(reminder, dict)]
 
 
 def save_reminder_store(store: list[dict[str, str | int]]) -> None:
@@ -379,7 +392,15 @@ def save_game_question_store(store: dict[str, object]) -> None:
 
 def get_game_questions(store: dict[str, object], category: str) -> list[dict[str, str]]:
     questions = store.get(category, [])
-    return questions if isinstance(questions, list) else []
+    if not isinstance(questions, list):
+        questions = []
+        store[category] = questions
+        return questions
+    if all(isinstance(question, dict) for question in questions):
+        return questions
+    questions = [question for question in questions if isinstance(question, dict)]
+    store[category] = questions
+    return questions
 
 
 def choose_game_question(

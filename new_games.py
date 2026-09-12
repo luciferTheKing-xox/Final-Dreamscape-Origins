@@ -500,7 +500,15 @@ def load_content_store() -> dict[str, object]:
 
 def content_records(store: dict[str, object], game_key: str) -> list[dict[str, object]]:
     records = store.get(game_key, [])
-    return records if isinstance(records, list) else []
+    if not isinstance(records, list):
+        records = []
+        store[game_key] = records
+        return records
+    if all(isinstance(record, dict) for record in records):
+        return records
+    records = [record for record in records if isinstance(record, dict)]
+    store[game_key] = records
+    return records
 
 
 def choose_content(
